@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Antonin Artaud",
+  "classifications": [
+    "Clean Architecture",
+    "Clean",
+    "Minimal API",
+    "Minimal",
+    "API",
+    "Dotnet",
+    "Docker"
+  ],
+  "identity": "IncomeSync.Template",
+  "name": "Clean Minimal API Template",
+  "shortName": "incomesync",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "IncomeSync",
+  "preferNameDirectory": true,
+  "symbols": {
+    "author": {
+      "type": "parameter",
+      "displayName": "The name of the author of the solution.",
+      "defaultValue": "Antonin Artaud",
+      "replaces": "Antonin Artaud"
+    }
+  }
+}
