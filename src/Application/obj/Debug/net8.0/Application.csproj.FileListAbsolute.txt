@@ -1,0 +1,13 @@
+/Users/antoninartaud/Git/IncomeSync/src/Application/bin/Debug/net8.0/Application.deps.json
+/Users/antoninartaud/Git/IncomeSync/src/Application/bin/Debug/net8.0/Application.dll
+/Users/antoninartaud/Git/IncomeSync/src/Application/bin/Debug/net8.0/Application.pdb
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.sourcelink.json
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.dll
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/Application.pdb
+/Users/antoninartaud/Git/IncomeSync/src/Application/obj/Debug/net8.0/ref/Application.dll

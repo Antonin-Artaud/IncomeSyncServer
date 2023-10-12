@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mDCS6zTKkj6JH2ia144KseDH14ZjX5Dt58N+VcgZblyrGqnlN+qYzvz3LwUYWTGoZpAowtH7dzjy1726lpl59Q==",
+  "dgSpecHash": "wFW/S0vizcxE0B5+V7/F1RPgLSJUvqNrYpGfpAXhyYYbtV9ik6Q9Eoz8WHjyvMko7qsagOuPbaMufMn2n5P4PQ==",
   "success": true,
   "projectFilePath": "/Users/antoninartaud/Git/IncomeSync/tests/Application.Tests.Unit/Application.Tests.Unit.csproj",
   "expectedPackageFiles": [

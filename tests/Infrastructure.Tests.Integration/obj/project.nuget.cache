@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qUqtnomN5q3drks7XhB3RhxjVWm571d3bggcUUYyrN7ClRg637zI0nFpvuRwSb4lujoJ+pdcYw+kNMs3xlbJHw==",
+  "dgSpecHash": "jpV+yJl9Kw5KDgvRiFrc17n+igsIueH1KLjbEOJiP3huh7tCWTkk3WaEvRCG/s8JQ4WO373dbyV4E39CGDlBXQ==",
   "success": true,
   "projectFilePath": "/Users/antoninartaud/Git/IncomeSync/tests/Infrastructure.Tests.Integration/Infrastructure.Tests.Integration.csproj",
   "expectedPackageFiles": [
